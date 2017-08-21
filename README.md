@@ -37,14 +37,6 @@
 
 ### Application
 
-Configuration | Source
-----|----
-Surge | [@lhie1](https://t.me/lhie1)
-Shadowrocket | [@lhie1](https://t.me/lhie1)
-Quantumult | [@未名](https://t.me/unknownTokyo)
-
----
-
 ### Function
 * 自动代理 / 全局代理
 * 解决本地 DNS 可能带来的干扰
@@ -212,24 +204,6 @@ macOS：
 2. 证书效验失败，[检查证书](#mitm)
 3. 获取文件出错，更新 [User Data](https://workflow.is/workflows/7dee8634229d4a48b81d96c8c912d87b)
 4. 脚本缺失，Get [Rule OTA](https://workflow.is/workflows/a70c1f75e37446cbb27d3045b7b57fe9)
-
----
-
-### line
-
-微博：[lhie1](http://weibo.com/1748625493)
-
-墙洞（规则讨论/交流）：[https://telegram.me/lhie1x](https://telegram.me/lhie1x)
-
-规则更新通知（新特性/教程/说明）：[http://t.me/RuleNews](http://t.me/RuleNews)
-
-购买翻墙服务：[https://爱兔联盟.com](https://爱兔联盟.com)（[了解详情](https://github.com/lhie1/tuClub/blob/master/README.md)）
-
-长时间的维护和分享离不开大家的鼓励与支持，如果帮助到您，可以考虑捐赠，谢谢。
-
-![](https://raw.githubusercontent.com/lhie1/Surge/master/images/Pay.jpeg)
-
----
 
 ### Hosts
 ````
@@ -526,17 +500,6 @@ hostname = *google.com
 ca-p12 = MIIJtQ.........
 ca-passphrase = password
 ````
----
-        
-### 鸣谢
-* [@Eval](https://twitter.com/OAuth4)
-* [@Scomper](https://medium.com/@scomper)
-* [@Neurogram](http://www.taguage.com/user?id=181456)
-* @suisr9255
-* [@Hackl0us](https://github.com/Hackl0us)
-* [@unknownTokyo](https://t.me/unknownTokyo)
-
----
 
 ### License
 * 可以拷贝、转发，但是必须提供原作者信息，同时也不能将本项目用于商业用途。
